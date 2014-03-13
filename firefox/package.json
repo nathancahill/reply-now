@@ -1,0 +1,11 @@
+{
+  "name": "reply-now",
+  "title": "Reply Now",
+  "id": "jid1-PZT4aItjRLlXew",
+  "description": "Change Gmail timestamps to display relative times.",
+  "author": "Nathan Cahill",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "icon": "icons/icon-32.png",
+  "icon64": "icons/icon-64.png"
+}
